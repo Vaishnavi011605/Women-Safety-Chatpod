@@ -105,14 +105,6 @@ Found a bug? Please report it by creating an issue with:
 - Expected vs. actual behavior
 - Screenshots (if applicable)
 
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 👥 Author
-
-**Vaishnavi011605**
-
 ## 🎯 Future Enhancements
 
 - [ ] Multi-language support
